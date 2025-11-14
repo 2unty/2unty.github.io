@@ -7,7 +7,7 @@ description: "The genesis of my amazing career"
 ---
 Super super super duper serious business corporate company post
 <p align="center">
-  <img src="/assets/Warning.png" alt="Cool banner" width="700">
+  <img src="/assets/LSFramewdrawing.png" alt="Cool banner" width="700">
 </p>
 <details>
   <summary> Yuh yuh yuhhh </summary>
